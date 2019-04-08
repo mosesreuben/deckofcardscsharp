@@ -1,0 +1,11 @@
+C:\Users\16513\Desktop\csharp\deckofcards\bin\Debug\netcoreapp2.2\deckofcards.deps.json
+C:\Users\16513\Desktop\csharp\deckofcards\bin\Debug\netcoreapp2.2\deckofcards.runtimeconfig.json
+C:\Users\16513\Desktop\csharp\deckofcards\bin\Debug\netcoreapp2.2\deckofcards.runtimeconfig.dev.json
+C:\Users\16513\Desktop\csharp\deckofcards\bin\Debug\netcoreapp2.2\deckofcards.dll
+C:\Users\16513\Desktop\csharp\deckofcards\bin\Debug\netcoreapp2.2\deckofcards.pdb
+C:\Users\16513\Desktop\csharp\deckofcards\obj\Debug\netcoreapp2.2\deckofcards.csprojAssemblyReference.cache
+C:\Users\16513\Desktop\csharp\deckofcards\obj\Debug\netcoreapp2.2\deckofcards.csproj.CoreCompileInputs.cache
+C:\Users\16513\Desktop\csharp\deckofcards\obj\Debug\netcoreapp2.2\deckofcards.AssemblyInfoInputs.cache
+C:\Users\16513\Desktop\csharp\deckofcards\obj\Debug\netcoreapp2.2\deckofcards.AssemblyInfo.cs
+C:\Users\16513\Desktop\csharp\deckofcards\obj\Debug\netcoreapp2.2\deckofcards.dll
+C:\Users\16513\Desktop\csharp\deckofcards\obj\Debug\netcoreapp2.2\deckofcards.pdb
